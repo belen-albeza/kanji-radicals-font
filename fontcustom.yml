@@ -8,7 +8,7 @@ input:
   templates: templates
 
 templates:
-  - preview.html
+  - index.html
 
 output:
   fonts: dist
