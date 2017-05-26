@@ -1,0 +1,16 @@
+font_name: KRadFont
+css_selector: .radical-{{glyph}}
+
+no_hash: true
+
+input:
+  vectors: svg
+  templates: templates
+
+templates:
+  - preview.html
+
+output:
+  fonts: dist
+  css: dist
+  preview: dist
